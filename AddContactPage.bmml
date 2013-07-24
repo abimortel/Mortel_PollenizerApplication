@@ -1,0 +1,280 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1326" measuredH="1073" mockupW="1248" mockupH="1073">
+  <controls>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="78" y="0" w="1248" h="1073" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16777215</color>
+        <text>A%20Web%20Page%0Ahttp%3A//</text>
+      </controlProperties>
+    </control>
+    <control controlID="40" controlTypeID="com.balsamiq.mockups::Image" x="80" y="73" w="1233" h="87" measuredW="253" measuredH="51" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/btn_green.PNG</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="41" controlTypeID="com.balsamiq.mockups::VerticalScrollBar" x="1308" y="72" w="-1" h="974" measuredW="16" measuredH="100" zOrder="3" locked="false" isInGroup="-1"/>
+    <control controlID="43" controlTypeID="com.balsamiq.mockups::Title" x="548" y="248" w="429" h="-1" measuredW="372" measuredH="43" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Connect%20with%20People</text>
+      </controlProperties>
+    </control>
+    <control controlID="56" controlTypeID="com.balsamiq.mockups::HRule" x="322" y="983" w="822" h="-1" measuredW="100" measuredH="10" zOrder="5" locked="false" isInGroup="-1"/>
+    <control controlID="57" controlTypeID="com.balsamiq.mockups::LinkBar" x="464" y="1000" w="-1" h="-1" measuredW="444" measuredH="19" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>About%20this%20site%2C%20Terms%20and%20Conditions%2C%20Privacy%20Policy%2C%20Security%2C%20Help</text>
+      </controlProperties>
+    </control>
+    <control controlID="58" controlTypeID="com.balsamiq.mockups::IconLabel" x="323" y="997" w="-1" h="-1" measuredW="121" measuredH="24" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>CopyrightIcon%7Csmall</icon>
+        <labelPosition>right</labelPosition>
+        <text>2013%20A.Network</text>
+      </controlProperties>
+    </control>
+    <control controlID="79" controlTypeID="com.balsamiq.mockups::Label" x="603" y="424" w="-1" h="-1" measuredW="320" measuredH="21" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>100%20of%20your%20CompanyName%20colleagues%20use%20A.Network.</text>
+      </controlProperties>
+    </control>
+    <control controlID="80" controlTypeID="com.balsamiq.mockups::Canvas" x="397" y="476" w="336" h="179" measuredW="100" measuredH="70" zOrder="9" locked="false" isInGroup="-1"/>
+    <control controlID="81" controlTypeID="com.balsamiq.mockups::Image" x="414" y="493" w="118" h="132" measuredW="152" measuredH="144" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/images%2520%283%29.jpg</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="82" controlTypeID="com.balsamiq.mockups::Canvas" x="761" y="476" w="336" h="179" measuredW="100" measuredH="70" zOrder="11" locked="false" isInGroup="-1"/>
+    <control controlID="83" controlTypeID="com.balsamiq.mockups::Link" x="548" y="499" w="-1" h="-1" measuredW="101" measuredH="26" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>Tom%20Reyes</text>
+      </controlProperties>
+    </control>
+    <control controlID="84" controlTypeID="com.balsamiq.mockups::Label" x="549" y="526" w="-1" h="-1" measuredW="93" measuredH="21" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <text>CompanyName</text>
+      </controlProperties>
+    </control>
+    <control controlID="85" controlTypeID="com.balsamiq.mockups::Label" x="547" y="549" w="-1" h="-1" measuredW="86" measuredH="21" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Sr.%20Accountant</text>
+      </controlProperties>
+    </control>
+    <control controlID="86" controlTypeID="com.balsamiq.mockups::Label" x="547" y="570" w="-1" h="-1" measuredW="109" measuredH="21" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Makati%2C%20Philippines</text>
+      </controlProperties>
+    </control>
+    <control controlID="87" controlTypeID="com.balsamiq.mockups::Image" x="777" y="493" w="118" h="132" measuredW="152" measuredH="144" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/images%2520%283%29.jpg</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="88" controlTypeID="com.balsamiq.mockups::Link" x="913" y="499" w="-1" h="-1" measuredW="116" measuredH="26" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>Mark%20Santos</text>
+      </controlProperties>
+    </control>
+    <control controlID="89" controlTypeID="com.balsamiq.mockups::Label" x="911" y="527" w="-1" h="-1" measuredW="93" measuredH="21" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <text>CompanyName</text>
+      </controlProperties>
+    </control>
+    <control controlID="90" controlTypeID="com.balsamiq.mockups::Label" x="911" y="550" w="-1" h="-1" measuredW="68" measuredH="21" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Accountant</text>
+      </controlProperties>
+    </control>
+    <control controlID="91" controlTypeID="com.balsamiq.mockups::Label" x="911" y="571" w="-1" h="-1" measuredW="109" measuredH="21" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Makati%2C%20Philippines</text>
+      </controlProperties>
+    </control>
+    <control controlID="92" controlTypeID="com.balsamiq.mockups::Canvas" x="397" y="667" w="336" h="179" measuredW="100" measuredH="70" zOrder="21" locked="false" isInGroup="-1"/>
+    <control controlID="93" controlTypeID="com.balsamiq.mockups::Link" x="548" y="690" w="-1" h="-1" measuredW="128" measuredH="26" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>Tom%20Reyes%20Jr.</text>
+      </controlProperties>
+    </control>
+    <control controlID="94" controlTypeID="com.balsamiq.mockups::Label" x="549" y="717" w="-1" h="-1" measuredW="93" measuredH="21" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <text>CompanyName</text>
+      </controlProperties>
+    </control>
+    <control controlID="95" controlTypeID="com.balsamiq.mockups::Label" x="547" y="740" w="-1" h="-1" measuredW="68" measuredH="21" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Accountant</text>
+      </controlProperties>
+    </control>
+    <control controlID="96" controlTypeID="com.balsamiq.mockups::Label" x="547" y="761" w="-1" h="-1" measuredW="109" measuredH="21" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Makati%2C%20Philippines</text>
+      </controlProperties>
+    </control>
+    <control controlID="97" controlTypeID="com.balsamiq.mockups::Image" x="414" y="690" w="118" h="132" measuredW="152" measuredH="144" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/images%2520%283%29.jpg</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="98" controlTypeID="com.balsamiq.mockups::Canvas" x="761" y="667" w="336" h="179" measuredW="100" measuredH="70" zOrder="27" locked="false" isInGroup="-1"/>
+    <control controlID="99" controlTypeID="com.balsamiq.mockups::Image" x="779" y="684" w="133" h="132" measuredW="152" measuredH="144" zOrder="28" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/images%2520%283%29.jpg</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="100" controlTypeID="com.balsamiq.mockups::Link" x="933" y="690" w="-1" h="-1" measuredW="143" measuredH="26" zOrder="29" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>Mark%20Santos%20Jr.</text>
+      </controlProperties>
+    </control>
+    <control controlID="101" controlTypeID="com.balsamiq.mockups::Label" x="931" y="718" w="105" h="-1" measuredW="93" measuredH="21" zOrder="30" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <text>CompanyName</text>
+      </controlProperties>
+    </control>
+    <control controlID="102" controlTypeID="com.balsamiq.mockups::Label" x="931" y="741" w="77" h="-1" measuredW="68" measuredH="21" zOrder="31" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Accountant</text>
+      </controlProperties>
+    </control>
+    <control controlID="103" controlTypeID="com.balsamiq.mockups::Label" x="931" y="762" w="123" h="-1" measuredW="109" measuredH="21" zOrder="32" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Makati%2C%20Philippines</text>
+      </controlProperties>
+    </control>
+    <control controlID="104" controlTypeID="com.balsamiq.mockups::Icon" x="761" y="867" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="33" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>RightFillTriangleIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="105" controlTypeID="com.balsamiq.mockups::Icon" x="709" y="867" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="34" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>LeftTriangleIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="107" controlTypeID="com.balsamiq.mockups::PointyButton" x="889" y="904" w="-1" h="-1" measuredW="218" measuredH="27" zOrder="35" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>Continue%20to%20next%20Step</text>
+      </controlProperties>
+    </control>
+    <control controlID="108" controlTypeID="com.balsamiq.mockups::Button" x="657" y="612" w="-1" h="-1" measuredW="45" measuredH="27" zOrder="36" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Add</text>
+      </controlProperties>
+    </control>
+    <control controlID="109" controlTypeID="com.balsamiq.mockups::Button" x="1026" y="612" w="-1" h="-1" measuredW="45" measuredH="27" zOrder="37" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Add</text>
+      </controlProperties>
+    </control>
+    <control controlID="110" controlTypeID="com.balsamiq.mockups::Button" x="657" y="804" w="-1" h="-1" measuredW="45" measuredH="27" zOrder="38" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Add</text>
+      </controlProperties>
+    </control>
+    <control controlID="111" controlTypeID="com.balsamiq.mockups::Button" x="1026" y="804" w="-1" h="-1" measuredW="45" measuredH="27" zOrder="39" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Add</text>
+      </controlProperties>
+    </control>
+    <control controlID="112" controlTypeID="com.balsamiq.mockups::Image" x="240" y="182" w="58" h="58" measuredW="152" measuredH="144" zOrder="40" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/images%2520%283%29.jpg</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="118" controlTypeID="com.balsamiq.mockups::IconLabel" x="240" y="304" w="-1" h="-1" measuredW="59" measuredH="39" zOrder="41" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>FileIcon%7Csmall</icon>
+        <text>Newsfeed</text>
+      </controlProperties>
+    </control>
+    <control controlID="119" controlTypeID="com.balsamiq.mockups::IconLabel" x="239" y="354" w="-1" h="-1" measuredW="61" measuredH="39" zOrder="42" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>EmailIcon%7Csmall</icon>
+        <text>Messages</text>
+      </controlProperties>
+    </control>
+    <control controlID="120" controlTypeID="com.balsamiq.mockups::IconLabel" x="240" y="406" w="-1" h="-1" measuredW="55" measuredH="39" zOrder="43" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>ContactIcon%7Csmall</icon>
+        <text>Contacts</text>
+      </controlProperties>
+    </control>
+    <control controlID="121" controlTypeID="com.balsamiq.mockups::IconLabel" x="248" y="454" w="-1" h="-1" measuredW="42" measuredH="39" zOrder="44" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>CalendarIcon%7Csmall</icon>
+        <text>Events</text>
+      </controlProperties>
+    </control>
+    <control controlID="122" controlTypeID="com.balsamiq.mockups::IconLabel" x="248" y="502" w="-1" h="-1" measuredW="43" measuredH="39" zOrder="45" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>ContactsIcon%7Csmall</icon>
+        <text>Groups</text>
+      </controlProperties>
+    </control>
+    <control controlID="124" controlTypeID="com.balsamiq.mockups::IconLabel" x="242" y="603" w="-1" h="-1" measuredW="51" measuredH="39" zOrder="46" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>GearIcon%7Csmall</icon>
+        <text>Settings</text>
+      </controlProperties>
+    </control>
+    <control controlID="125" controlTypeID="com.balsamiq.mockups::IconLabel" x="251" y="654" w="-1" h="-1" measuredW="32" measuredH="47" zOrder="47" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>Help2Icon%7Cmedium</icon>
+        <text>Help</text>
+      </controlProperties>
+    </control>
+    <control controlID="126" controlTypeID="com.balsamiq.mockups::Icon" x="239" y="92" w="-1" h="-1" measuredW="48" measuredH="48" zOrder="48" locked="false" isInGroup="-1"/>
+    <control controlID="128" controlTypeID="com.balsamiq.mockups::LinkBar" x="301" y="103" w="-1" h="-1" measuredW="247" measuredH="26" zOrder="49" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16777215</color>
+        <size>20</size>
+        <text>Home%2C%20Profile%2C%20Companies</text>
+        <underline>false</underline>
+      </controlProperties>
+    </control>
+    <control controlID="129" controlTypeID="com.balsamiq.mockups::VRule" x="320" y="158" w="-1" h="828" measuredW="10" measuredH="100" zOrder="50" locked="false" isInGroup="-1"/>
+    <control controlID="130" controlTypeID="com.balsamiq.mockups::TabBar" x="348" y="355" w="795" h="591" measuredW="665" measuredH="100" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>11982760</color>
+        <size>14</size>
+        <text>Colleagues%20at%20CompanyName%2C%20Former%20Colleagues%2C%20Former%20Classmates%2C%20Contact%20Suggestions</text>
+      </controlProperties>
+    </control>
+    <control controlID="132" controlTypeID="com.balsamiq.mockups::Link" x="240" y="242" w="-1" h="-1" measuredW="56" measuredH="20" zOrder="51" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>14</size>
+        <text>Paul%20Lim</text>
+      </controlProperties>
+    </control>
+    <control controlID="133" controlTypeID="com.balsamiq.mockups::Link" x="236" y="260" w="-1" h="-1" measuredW="64" measuredH="19" zOrder="52" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Edit%20Profile</text>
+      </controlProperties>
+    </control>
+    <control controlID="134" controlTypeID="com.balsamiq.mockups::SearchBox" x="873" y="104" w="270" h="-1" measuredW="120" measuredH="25" zOrder="53" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>search</text>
+      </controlProperties>
+    </control>
+    <control controlID="135" controlTypeID="com.balsamiq.mockups::IconLabel" x="254" y="552" w="-1" h="-1" measuredW="29" measuredH="39" zOrder="54" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>SuitcaseIcon%7Csmall</icon>
+        <text>Jobs</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
